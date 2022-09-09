@@ -1,4 +1,11 @@
 body {
-  background-color: #af0fff;
+  background-color: #FFFFF0;
 }
 
+.bigButton {
+  width: 100px;
+  height: 25px;
+  color: maroon;
+  background-color: aliceblue;
+  border: .5px dotted #ff00ff;
+}
