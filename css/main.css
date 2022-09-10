@@ -10,3 +10,23 @@ li {
   text-transform: capitalize;
   list-style-type: none;
 }
+
+.button-green,
+.button-orange,
+.button-blue {
+  border: none;
+  padding: 5px 10px;
+  margin-left: 5px;
+  background-color: #33673b;
+  color: #bffff1;
+}
+
+.button-orange {
+  background-color: #f46036;
+  color: #fff;
+}
+
+.button-blue {
+  background-color: #20063b;
+  color: #fffd98;
+}
