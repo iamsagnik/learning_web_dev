@@ -1,11 +1,12 @@
-body {
-  background-color: #FFFFF0;
+table, td {
+  border: 1px solid green;
 }
 
-.bigButton {
-  width: 100px;
-  height: 25px;
-  color: maroon;
-  background-color: aliceblue;
-  border: .5px dotted #ff00ff;
+img {
+  width: 25%;
+}
+
+li {
+  text-transform: capitalize;
+  list-style-type: none;
 }
