@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&family=Ubuntu:wght@700&display=swap');
+
+    /* font-family: 'Roboto Slab', serif; */
+    /**/
+    /* font-family: 'Ubuntu', sans-serif; */
+
 table, td {
   border: 1px solid green;
 }
@@ -30,3 +36,21 @@ li {
   background-color: #20063b;
   color: #fffd98;
 }
+
+.result {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+  margin-top: 10px;
+  max-width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  background-color: #fffd98;
+  color: #20063b;
+}
+
+.digits {
+    font-family: 'Roboto Slab', serif;
+    font-size: 70px;
+}
+
